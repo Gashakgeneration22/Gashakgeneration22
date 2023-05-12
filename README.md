@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://Gashakgeneration22.io)
 <h1 align="center">Hi 👋, I'm J O E S A T R I A</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A passionate FullStack Developer from Indonesia/eh3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
