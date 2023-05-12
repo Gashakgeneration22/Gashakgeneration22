@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jembot&label=Profile%20views&color=0e75b6&style=flat" alt="Jembot" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Jembot" target="blank"><img src="https://img.shields.io/twitter/follow/jembot?logo=twitter&style=for-the-badge" alt="jembot" /></a> </p>
+<p align="left"> <a href="https://twitter.com/J O E S A T R I A" target="blank"><img src="https://img.shields.io/twitter/follow/J O E S A T R I A?logo=twitter&style=for-the-badge" alt="J O E S A T R I A" /></a> </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **GASHAK Web App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **GASHAKDev**
 
 - 💬 Ask me about **Android , MEARN**
 
